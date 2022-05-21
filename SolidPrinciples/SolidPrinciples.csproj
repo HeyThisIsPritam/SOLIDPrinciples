@@ -43,6 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="L - SOLID\ContractualEmployee.cs" />
+    <Compile Include="L - SOLID\Employee.cs" />
+    <Compile Include="L - SOLID\ICalculateBonus.cs" />
+    <Compile Include="L - SOLID\IEmployee.cs" />
+    <Compile Include="L - SOLID\Intern.cs" />
+    <Compile Include="L - SOLID\PermanentEmployee.cs" />
+    <Compile Include="L - SOLID\Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
